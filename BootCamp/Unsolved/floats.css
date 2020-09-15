@@ -53,6 +53,7 @@ section {
   color: #fff;
   height: 150px;
   margin-bottom: 20px;
+  padding-top: 10px;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -62,6 +63,8 @@ section {
   width: 100%;
   margin-right: 50px;
   margin-top: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 
 }
 
@@ -72,14 +75,15 @@ aside {
   margin-left:20px;
   padding: 20px, 30px, 100px, 30px;
   height: 100px;
-  width: 100px;
+  width: 30%;
   background-color: #a6b747;
  
 }
 
 footer {
   background-color: #FFA500;
-  margin-top: 200px;
+  clear: both;
+  padding-top: 10px;
   padding-bottom: 10px;
   
 }
